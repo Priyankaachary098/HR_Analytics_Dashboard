@@ -18,7 +18,7 @@ The Microsoft Power BI dashboard offers a comprehensive view of employee attriti
 
 
 🔍 Key Dashboard Insights
--🚹🚺 Gender & Age Band: Majority of active employees fall in the 35–44 age band; gender distribution is balanced.
--🎓 Education Field & Degree: Life Sciences is the most common field; most employees hold a Bachelor’s degree.
--🧑‍💻 Job Roles: Healthcare Representatives and Sales Executives are the top roles with high job satisfaction variance.
--💼 Department Analysis: R&D has the highest active employees and attrition, highlighting a potential focus area.
+- 🚹🚺 Gender & Age Band: Majority of active employees fall in the 35–44 age band; gender distribution is balanced.
+- 🎓 Education Field & Degree: Life Sciences is the most common field; most employees hold a Bachelor’s degree.
+- 🧑‍💻 Job Roles: Healthcare Representatives and Sales Executives are the top roles with high job satisfaction variance.
+- 💼 Department Analysis: R&D has the highest active employees and attrition, highlighting a potential focus area.
