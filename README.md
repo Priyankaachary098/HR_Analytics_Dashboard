@@ -3,18 +3,18 @@ The Microsoft Power BI dashboard offers a comprehensive view of employee attriti
 
 
 🔧 Tools Used
--📊 Microsoft Power BI (.pbix) – For creating interactive visual dashboards
--🧹 Power Query – For cleaning and transforming HR data
--🧮 Data Modeling & DAX – To build calculated measures and KPIs
--🎨 Custom Visualizations – For engaging and insightful presentation
+- 📊 Microsoft Power BI (.pbix) – For creating interactive visual dashboards
+- 🧹 Power Query – For cleaning and transforming HR data
+- 🧮 Data Modeling & DAX – To build calculated measures and KPIs
+- 🎨 Custom Visualizations – For engaging and insightful presentation
 
 
 💼 Business Impact
--📉 Attrition Analysis: Identified attrition count (237) and rate (16%) to target retention strategies.
--👩‍💼 Workforce Demographics: Analyzed employee distribution by age, gender, marital status, and education.
--📌 Performance & Satisfaction: Visualized job satisfaction and performance ratings to support talent development.
--💰 Compensation Trends: Compared average monthly income by job roles to evaluate pay equity.
--🧠 Strategic HR Decisions: Enabled actionable insights to support hiring, training, and employee engagement planning.
+- 📉 Attrition Analysis: Identified attrition count (237) and rate (16%) to target retention strategies.
+- 👩‍💼 Workforce Demographics: Analyzed employee distribution by age, gender, marital status, and education.
+- 📌 Performance & Satisfaction: Visualized job satisfaction and performance ratings to support talent development.
+- 💰 Compensation Trends: Compared average monthly income by job roles to evaluate pay equity.
+- 🧠 Strategic HR Decisions: Enabled actionable insights to support hiring, training, and employee engagement planning.
 
 
 🔍 Key Dashboard Insights
