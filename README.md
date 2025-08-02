@@ -22,3 +22,5 @@ The Microsoft Power BI dashboard offers a comprehensive view of employee attriti
 - 🎓 Education Field & Degree: Life Sciences is the most common field; most employees hold a Bachelor’s degree.
 - 🧑‍💻 Job Roles: Healthcare Representatives and Sales Executives are the top roles with high job satisfaction variance.
 - 💼 Department Analysis: R&D has the highest active employees and attrition, highlighting a potential focus area.
+
+![Dashboard Preview].(https://github.com/Priyankaachary098/Amazon_Prime_Dashboard/blob/main/HR_Analytics_Dashboard.png)
